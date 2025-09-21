@@ -44,7 +44,7 @@ npm run dev
 This project is built with:
 
 - HTML, CSS, Java Script
-- React
+- React, Type Script
 - Tailwind CSS
 - NodeJs, ExpressJs
 - PostgreSQL, Supabase
